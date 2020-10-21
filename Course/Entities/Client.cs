@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Course.Entities
 {
     class Client
@@ -16,6 +17,14 @@ namespace Course.Entities
             Name = name;
             Email = email;
             BirthDate = birthDate;
+        }
+        public override string ToString()
+        {
+            return Name
+                + ", ("
+                + BirthDate.ToString("dd/MM/yyyy")
+                + ") - "
+                + Email;
         }
     }
 }

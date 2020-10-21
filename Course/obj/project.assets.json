@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jhona\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\estoque.bhe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\source\\repos\\C Sharp Orientada a Objetos\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\Users\\estoque.bhe\\source\\repos\\coursegit\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\Users\\jhona\\source\\repos\\C Sharp Orientada a Objetos\\Course\\Course\\Course.csproj",
-      "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\source\\repos\\C Sharp Orientada a Objetos\\Course\\Course\\obj\\",
+      "projectPath": "C:\\Users\\estoque.bhe\\source\\repos\\coursegit\\Course\\Course.csproj",
+      "packagesPath": "C:\\Users\\estoque.bhe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\estoque.bhe\\source\\repos\\coursegit\\Course\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\estoque.bhe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
